@@ -44,6 +44,7 @@ https://www.aliyun.com/minisite/goods?userCode=eogi8dax
    ```
 
 4. 最后，可以检查下是否OK了，可以通过浏览器访问ip:8081或者使用命令查看：  `ps -ef | grep java`
+5. 启动之后进行激活，激活完成之后，改为offline模式执行即可。![offline](img/offline.png)
 
 温馨提示：跳过第二步直接在这里下载打好的jar包也行：
 
